@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Linus Smith",
+      "email": "cahipabe@mailinator.com",
+      "age": 90,
+      "address": "Dolorem id magnam e",
+      "phone": "+1 (677) 183-2518",
+      "id": 3
+    },
+    {
+      "name": "Iris Stevens",
+      "email": "dematizi@mailinator.com",
+      "age": 83,
+      "address": "Aut asperiores rerum",
+      "phone": "+1 (892) 432-3218",
+      "id": 5
+    },
+    {
+      "name": "Alfreda Green",
+      "email": "topa@mailinator.com",
+      "age": 38,
+      "address": "Hic dignissimos ulla",
+      "phone": "+1 (118) 222-2011",
+      "id": 6
+    },
+    {
+      "name": "Aliana Shaw",
+      "email": "sydohosy@mailinator.com",
+      "age": 39,
+      "address": "Natus enim laboris l",
+      "phone": "+1 (804) 536-5674",
+      "id": 7
+    },
+    {
+      "name": "Cebekah Ramos",
+      "email": "xizehydupa@mailinator.com",
+      "age": 34,
+      "address": "Et neque voluptatibu",
+      "phone": "+1 (707) 458-5977",
+      "id": 8
+    }
+  ]
+}
